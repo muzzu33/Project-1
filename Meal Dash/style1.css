@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Sora", sans-serif;
+}
+body {
+  line-height: 1;
+  font-weight: 400px;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(images/hero.jpg);
+  background-size: cover;
+  color: white;
+  height: 100vh;
+  position: relative;
+}
+.logo {
+  height: 55px;
+}
+header {
+  font-size: 20px;
+  /* background-color: #fef4e8; */
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+nav {
+  margin-top: 10px;
+}
+nav:last-child {
+  margin-right: 300px;
+}
+.logo {
+  margin: auto 40px;
+}
+nav a {
+  display: inline-block;
+  margin: 15px;
+  text-decoration: none;
+  color: white;
+}
+nav a:hover {
+  font-weight: bolder;
+  color: #e67e22;
+}
+section .container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+section {
+  padding: 96px 0;
+}
+
+.main-text-box {
+  /* background-color: black; */
+}
+.heading-pirmary {
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 1.05;
+  margin-bottom: 32px;
+}
+.main-description {
+  font-size: 20px;
+  margin-bottom: 48px;
+  line-height: 1.6;
+}
+.btn {
+  font-weight: 600;
+  background-color: #e67e22;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  padding: 16px 32px;
+  border-radius: 9px;
+  margin-right: 20px;
+}
+.btn:hover {
+  background-color: #a15818;
+}
+footer {
+  /* background-color: #e67e22; */
+  margin: 100px auto;
+  width: 1200px;
+}
+.slinks {
+  margin: 10px 0;
+}
+.slinks a {
+  padding: 0 10px;
+  color: white;
+}
+.slinks a:hover {
+  color: #e67e22;
+}
+.icons {
+  padding: 10px 0px;
+}
+p.as {
+}

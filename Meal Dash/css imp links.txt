@@ -1,0 +1,25 @@
+Colours Used for our site :#e67e22
+Light shade     :#fef4e8
+
+
+Tints shade Generator:To create light shade of colours
+
+https://maketintsandshades.com/#e67e22
+shades
+
+Fonts Used:Inter or Sora
+
+link to be pasted in header: 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Sora:wght@400;600;700&display=swap" rel="stylesheet">
+
+font-family: 'Inter', sans-serif;
+font-family: 'Sora', sans-serif;
+
+
+Font wbsite link: Google Fonts 
+https://fonts.google.com/
+
+
+
